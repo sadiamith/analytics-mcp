@@ -1,0 +1,2 @@
+[console_scripts]
+analytics-mcp = analytics_mcp.server:run_server
